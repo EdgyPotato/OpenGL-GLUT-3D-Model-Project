@@ -21,7 +21,12 @@ This is a 3D model project for the SECV2213 FUNDAMENTAL OF COMPUTER GRAPHICS cou
 ### Prerequisites
 
 1. Install OpenGL GLUT library (OpenGL freeGLUT is recommended)
-2. VSCode [Tutorial video](https://youtu.be/8Qkpaewj-7Y)
+2. Add the following: 
+   `-lopengl32
+     -lglu32
+     -lfreeglut
+     -lwinmm`
+3. (Optional) VSCode - [Tutorial video](https://youtu.be/8Qkpaewj-7Y)
 
 ### Steps
 
