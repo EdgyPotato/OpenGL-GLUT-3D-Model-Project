@@ -16,6 +16,9 @@ This is a 3D model project for the SECV2213 FUNDAMENTAL OF COMPUTER GRAPHICS cou
    [Author Links](https://github.com/WHKnightZ) | 
    [Github Link](https://github.com/WHKnightZ/OpenGL-Load-Model)
 
+3. Background Image from: 
+   [Link](https://bendy.fandom.com/wiki/User_blog:TheVeryInkyBendy/Texture_Files)
+
 ## Installation
 
 ### Prerequisites
