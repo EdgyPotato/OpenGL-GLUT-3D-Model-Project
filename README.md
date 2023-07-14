@@ -37,7 +37,6 @@ This is a 3D model project for the SECV2213 FUNDAMENTAL OF COMPUTER GRAPHICS cou
 
 ## Image
 
-![image](https://github.com/EdgyPotato/OpenGL-Model-Project/assets/64056626/db9ae023-fde9-484b-aec6-45bf55e8420f)
+![image](https://github.com/EdgyPotato/OpenGL-Model-Project/assets/64056626/c62e0eb7-3996-41f0-8efd-aaefc1a2c7ce)
 
-
-![image](https://github.com/EdgyPotato/OpenGL-Model-Project/assets/64056626/2cc242fa-fdba-40fb-9532-934b1e5c0b60)
+![image](https://github.com/EdgyPotato/OpenGL-Model-Project/assets/64056626/b0c00539-6ff0-4081-990c-d9e0051060ec)
