@@ -1,4 +1,4 @@
-# OpenGL-Model-Project
+# OpenGL 3D Model Project
 
 This is a 3D Bendy model made in OpenGL GLUT C++.
 
